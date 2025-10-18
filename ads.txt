@@ -1,2 +1,10 @@
-https://play.google.com/store/apps/details?id=kidgames.christmas.pack,https://kidgameedu.github.io/ads/christmas_games_banner_320_50.png,https://kidgameedu.github.io/ads/christmas_games_interstitial.png
-https://play.google.com/store/apps/details?id=kidgames.halloween.pack,https://kidgameedu.github.io/ads/halloween_games_banner_320_53.png,https://kidgameedu.github.io/ads/halloween_games_intertitial.jpg
+#  appId,						bannerFile,						interstitialFile,				  weight, active
+kidgames.christmas.pack,		christmas_games_320_50.png,		christmas_games_interstitial.png,	10,		1
+kidgames.halloween.pack,		halloween_games_320_53.png,		halloween_games_intertitial.jpg,	1,		1
+kidgames.coloring.christmas, 	coloring_christmas_320_50.png, 	coloring_christmas_769_1024.png,	1,		1
+kidgames.snowman.dress, 		dress_snowman_320_50.jpg, 		dress_snowman_768_1024.jpg,			1,		1
+com.kidgames.howtodraw, 		how_to_draw_320_50.png, 		how_to_draw_768_1024.png,			1,		1
+kidgames.learn.draw, 			learn_to_draw_320_50.png, 		Learn_to_draw_768_1024.png,			1,		1
+kidgames.princess.pack, 		princess_games_320_50.png, 		princess_games_768_1024.jpg,		1,		1
+kidgames.thanksgiving.pack, 	thanksgiving_games_320_50.png, 	thanksgiving_games_768_1024.jpg,	1,		1
+kidgames.christmas.dress, 		tree_decoration_320_50.png, 	tree_decoration_768_1024.jpg,		1,		1
